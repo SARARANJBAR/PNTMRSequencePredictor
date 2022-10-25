@@ -4,7 +4,7 @@ One factor affecting the ability to aggregate large medical image collections fo
 
 ## Reference 
 
-Ranjbar S, Singleton KW, Jackson PR, Rickertsen CR, Whitmire SA, Clark-Swanson KR, Mitchell JR, Swanson KR, Hu LS. A deep convolutional neural network for annotation of magnetic resonance imaging sequence type. Journal of digital imaging. 2020 Apr;33(2):439-46. [Link text Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7165226/)
+Ranjbar S, Singleton KW, Jackson PR, Rickertsen CR, Whitmire SA, Clark-Swanson KR, Mitchell JR, Swanson KR, Hu LS. A deep convolutional neural network for annotation of magnetic resonance imaging sequence type. Journal of digital imaging. 2020 Apr;33(2):439-46. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7165226/)
 
 ## Code 
 
